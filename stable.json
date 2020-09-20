@@ -1,0 +1,22 @@
+{
+  "app": {
+    "version": "7.5.1",
+    "versionCode": "267",
+    "link": "https://by-han.coding.net/api/share/download/36811a6d-6dfc-4bd8-ab00-2d43ed01f29c",
+    "note": "https://by-han.coding.net/api/share/download/4e2ced07-4c48-4873-875d-a5d3db7fe791"
+  },
+  "uninstaller": {
+    "link": "https://by-han.coding.net/api/share/download/fd4dfb8d-fc3c-4c70-b03f-1dd058432e5f"
+  },
+  "magisk": {
+    "version": "20.4",
+    "versionCode": "20400",
+    "link": "https://by-han.coding.net/api/share/download/f0461e2c-bf20-46bb-970c-e51607af954f",
+    "note": "https://by-han.coding.net/api/share/download/116f3eec-5966-41fa-a311-6d8ec962d680",
+    "md5": "9503fc692e03d60cb8897ff2753c193f"
+  },
+  "stub": {
+    "versionCode": "7",
+    "link": "https://by-han.coding.net/api/share/download/3eb668c6-b14b-4318-8467-8f09b2d7fa0e"
+  }
+}
